@@ -46,7 +46,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=spvoronin&theme=radical" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spvoronin&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spvoronin&amp;show_icons=true&amp;theme=radical" alt="Top Languages" />
 </p>
 
 ## 🚀 Контакты
