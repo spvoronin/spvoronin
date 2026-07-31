@@ -3,7 +3,7 @@
      ========================================================= -->
 <p align="center">
   <!-- Вставь ссылку на свою аватарку в src -->
-  <img src="https://raw.githubusercontent.com/spvoronin/spvoronin/main/avatar.jpg" width="130" alt="Сергей Воронин" />
+  <img src="https://raw.githubusercontent.com/spvoronin/spvoronin/main/avatar.png" width="130" alt="Сергей Воронин" />
 </p>
 
 <h1 align="center">Привет, я Сергей Воронин 👋</h1>
