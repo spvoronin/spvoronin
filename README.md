@@ -1,3 +1,11 @@
+<!-- =========================================================
+     1. ШАПКА И АВАТАР
+     ========================================================= -->
+<p align="center">
+  <!-- Вставь ссылку на свою аватарку в src -->
+  <img src="https://raw.githubusercontent.com/spvoronin/spvoronin/main/avatar.jpg" width="130" alt="Сергей Воронин" />
+</p>
+
 <h1 align="center">Привет, я Сергей Воронин 👋</h1>
 <h3 align="center">Coding • Embedded-development • Modern energy industry</h3>
 
@@ -9,36 +17,39 @@
 ---
 
 ### 📌 О себе
+
 Занимаюсь программированием микроконтроллеров, схемотехникой и инженерным проектированием. Объединяю физику, энергетику и код в реальных проектах.
 
 - 🚀 **Основные направления:** Embedded-разработка, схемотехника, прототипирование
 - 🌱 **Сейчас изучаю:** Python, Git & GitHub, Figma
 - 📐 **3D-моделирование:** КОМПАС-3D (базовый уровень)
 
+---
+
 ### 📈 Достижения
 
-#### Конкурсы:
+#### 🏆 Конкурсы
+* **Дважды призёр международного и всероссийского конкурса:**  
+  ![Большие Вызовы 2025](https://img.shields.io/badge/Большие_Вызовы_2025-00B59B?style=for-the-badge&logo=trophy&logoColor=white) 
+  ![Большие Вызовы 2026](https://img.shields.io/badge/Большие_Вызовы-2026-00B59B?style=for-the-badge&logo=atom&logoColor=white)
 
-- **Дважды призёр международного и всероссийского конкурса:**<br/>
-![Большие Вызовы 2025](https://img.shields.io/badge/Большие_Вызовы_2025-00B59B?style=for-the-badge&logo=trophy&logoColor=white)<br/>
-![Большие Вызовы 2026](https://img.shields.io/badge/Большие_Вызовы-2026-00B59B?style=for-the-badge&logo=atom&logoColor=white)<br/>
-  **В направлении:**<br/>
-![Современная Энергетика](https://img.shields.io/badge/Современная_Энергетика-00B59B?style=for-the-badge&logo=lightning&logoColor=white)
+* **В направлении:**  
+  ![Современная Энергетика](https://img.shields.io/badge/Современная_Энергетика-00B59B?style=for-the-badge&logo=lightning&logoColor=white)
 
- - **Участник четырёх проектных программ в Сириусе**
-
-#### Площадки
+#### 📍 Площадки и программы
+🎓 **Участник четырёх проектных программ в Сириусе**  
 ![Сириус](https://img.shields.io/badge/Сириус-52008A?style=for-the-badge&logo=star&logoColor=white)
 ![Лицей Сириус](https://img.shields.io/badge/Лицей_Сириус-8A2052?style=for-the-badge&logo=school&logoColor=white)
 ![Университет Сириус](https://img.shields.io/badge/Университет_Сириус-2E979D?style=for-the-badge&logo=academicons&logoColor=white)
 ![МФТИ](https://img.shields.io/badge/МФТИ-0055A5?style=for-the-badge&logo=atom&logoColor=white)
 
-#### Партнёры
+#### 🤝 Партнёры
 ![СИБУР](https://img.shields.io/badge/СИБУР-008C95?style=for-the-badge&logo=factory&logoColor=white)
 ![ЛУКОЙЛ](https://img.shields.io/badge/ЛУКОЙЛ-E20613?style=for-the-badge&logo=fire&logoColor=white)
+
 ---
 
-### 🛠 Мой стэк - Технологии и инструменты
+### 🛠 Мой стек — Технологии и инструменты
 
 **Языки и фреймворки:**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -55,7 +66,7 @@
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge&logo=easyeda&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
+![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 ![КОМПАС-3D](https://img.shields.io/badge/КОМПАС--3D-F47920?style=for-the-badge&logoColor=white)
@@ -64,11 +75,42 @@
 
 ### 🗂️ Проекты
 
-* ⛽ **[Smart AZS Future (SAF)](github.com/spvoronin/future-AZS.git )** — Автономная КАЗС: со стороны кода, проект сочетает в себе большой стэк технологий, в нём я выполнял роль embedded-разработчика. Это практико ориентированный проект, заказчиком которого является «Лукойл-югнефтепродкут»
-* ⚛️ **[Atom](https://github.com/spvoronin/Atom)** — Демонстрационная модель атома *(Участвовал в БВ 2026)*.
-* ⚡ **[Модель явления электропроводности в металлах](https://github.com/spvoronin/model-phenomen-of-electrical-conductivity.git)** — Учебная интерактивная физическая модель *(Участвовал БВ 2025)*.
-* ❄️ **[Арктический Центр Поселений (АЦП)](https://github.com/spvoronin/ACP.git)** — Командный проект по энергоснабжению Арктики *(Профильная смена «Энергия будущего», апрель 2026)*.
-* 🏡 **[PC assistant to esp32](https://github.com/spvoronin/esp32_assistent)** — pad-проект, ассистент по управлению ПК и окружением с помощью микроконтроллера esp32. Управление реализовано с помощью телеграмм бота. *(Проект находится на стадии ранней разработки)*
+<table>
+  <thead>
+    <tr>
+      <th>Проект</th>
+      <th>Описание и Роль</th>
+      <th>Статус / Конкурс</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/spvoronin/future-AZS">⛽ Smart AZS Future (SAF)</a></b></td>
+      <td>Автономная КАЗС. Разработка embedded-составляющей. Практико-ориентированный проект по заказчику <i>«Лукойл-Югнефтепродукт»</i>.</td>
+      <td><code>В разработке</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/spvoronin/Atom">⚛️ Atom</a></b></td>
+      <td>Интерактивная демонстрационная модель атома.</td>
+      <td><code>БВ 2026</code> • <code>Завершён</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/spvoronin/model-phenomen-of-electrical-conductivity">⚡ Модель электропроводности</a></b></td>
+      <td>Учебная интерактивная физическая модель явления электропроводности в металлах.</td>
+      <td><code>БВ 2025</code> • <code>Завершён</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/spvoronin/ACP">❄️ АЦП (Арктический Центр)</a></b></td>
+      <td>Командный проект по моделированию энергоснабжения Арктического региона.</td>
+      <td><code>«Энергия будущего» (Апрель 2026)</code> • <code>Завершён</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/spvoronin/esp32_assistent">🏡 PC assistant to ESP32</a></b></td>
+      <td>Pet-проект: система управления ПК и окружением на базе микроконтроллера ESP32 и Telegram-бота.</td>
+      <td><code>Early Dev</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
